@@ -1,0 +1,23 @@
+{
+  "name": "excel-to-json-conversion",
+  "version": "1.0.0",
+  "author": "Suraj Roy",
+  "description": "NodeJS Project excel-to-json-conversion",
+  "main": "server.js",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "excel": "^1.0.0",
+    "excel-to-json": "^1.0.0",
+    "excel2json": "^0.3.1",
+    "express": "^4.16.3",
+    "file-extension": "^4.0.2",
+    "multer": "^1.3.0",
+    "node-xlsx": "^0.12.0",
+    "xls-to-json": "^0.4.0",
+    "xlsx-to-json": "^0.3.0"
+  }
+}
